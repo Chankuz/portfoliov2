@@ -41,19 +41,20 @@ const AboutMe = () => {
                 ชั้นมัธยมศึกษาปีที่ 6
               </span>
               <span className="text-white font-bold">
-                ความสนใจด้านคอมพิวเตอร์ของผมเริ่มต้นตั้งแต่ชั้นมัธยมศึกษาปีที่ 4
+                Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                Provident doloribus delectus blanditiis quis dolores adipisci
+                voluptatem obcaecati reprehenderit asperiores consequuntur?
+                Deleniti pariatur illo exercitationem quae reiciendis velit,
+                adipisci maiores architecto recusandae, placeat fugiat assumenda
+                dicta iste eum libero laudantium, facilis nisi eveniet ipsum
+                fugit quibusdam. Sint nam fugit deleniti ex cum, inventore
+                quisquam repellat facere ab in. Laudantium officia, harum
+                voluptas illo eos nesciunt animi in sit fugit quod, fuga error
+                doloremque similique unde aperiam architecto explicabo laborum,
+                ab dignissimos ullam nisi! Sint impedit suscipit possimus
+                assumenda beatae laborum voluptate reiciendis, ratione minima
+                reprehenderit ullam optio nulla incidunt libero maiores?{" "}
               </span>
-              และค่อย ๆ ศึกษาอย่างจริงจังในช่วงปลายชั้นมัธยมศึกษาปีที่ 5
-              ช่วงเทอมแรก ผมเริ่มต้นการเขียนโปรแกรมด้วยภาษา Python
-              เป็นภาษาแรกโดยทดลองสร้างโปรเจกต์เล็ก ๆ ด้วยตนเอง
-              ซึ่งเป็นจุดเริ่มต้นที่ทำให้ผมได้เรียนรู้หลักการพื้นฐานของการเขียนโค้ด
-              ต่อมา{" "}
-              <span className="text-white font-bold">
-                ผมได้รับคำแนะนำให้ลองพัฒนาเว็บไซต์โดยใช้ HTML, CSS และ
-                JavaScript
-              </span>
-              การทำงานกับเว็บทำให้ผมรู้สึกสนุกและท้าทายสำหรับผมซึ่งปัจจุบันผมกำลังศึกษาเรื่อง
-              Framework และ Library ต่างๆสำหรับผมเช่น React Nextjs
             </p>
           </div>
         </div>
