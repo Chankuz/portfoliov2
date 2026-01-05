@@ -6,65 +6,67 @@ export interface TechItem {
 
 export const techStack: TechItem[] = [
   {
-    name: "HTML",
-    iconName: "html5",
-  },
-  {
-    name: "CSS",
-    iconName: "css3",
-    imageUrl:
-      "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg",
+    name: "Python",
+    iconName: "python",
   },
   {
     name: "Python",
     iconName: "python",
   },
   {
-    name: "JavaScript",
-    iconName: "javascript",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "TailwindCSS",
-    iconName: "tailwindcss",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "Figma",
-    iconName: "figma",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "React",
-    iconName: "react",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "Express",
-    iconName: "express",
+    name: "",
+    iconName: "python",
   },
   {
-    name: "TypeScript",
-    iconName: "typescript",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "Go",
-    iconName: "go",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "Node.js",
-    iconName: "nodedotjs",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "MongoDB",
-    iconName: "mongodb",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "MySQL",
-    iconName: "mysql",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "C++",
-    iconName: "cplusplus",
+    name: "Python",
+    iconName: "python",
   },
   {
-    name: "Docker",
-    iconName: "docker",
+    name: "Python",
+    iconName: "python",
+  },
+  {
+    name: "Python ",
+    iconName: "python",
+  },
+  {
+    name: "Python ",
+    iconName: "python",
   },
 ];
