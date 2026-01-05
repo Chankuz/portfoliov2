@@ -17,9 +17,7 @@ const AboutMe = () => {
       <div className="max-w-4xl mx-auto text-center">
         <img
           src={
-            !isHover2
-              ? "public/images/mySelf/profile.JPG"
-              : "public/images/mySelf/sour.jpg"
+            !isHover2 ? "/images/mySelf/profile.JPG" : "/images/mySelf/sour.jpg"
           }
           alt="Chankit Wongtadam"
           className="w-40 h-40 rounded-full mx-auto mb-6"

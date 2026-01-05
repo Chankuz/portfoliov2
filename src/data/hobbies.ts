@@ -10,7 +10,7 @@ export const hobbies: Hobby[] = [
   {
     id: "1",
     name: "อ่านหนังสือ",
-    imgUrl: "public/images/mySelf/reading.jpg",
+    imgUrl: "/images/mySelf/reading.jpg",
     description: "อ่านหนังสือ และชอบที่จะเรียนรู้สิ่งต่างๆ",
     emoji: "📚",
   },
@@ -24,7 +24,7 @@ export const hobbies: Hobby[] = [
   {
     id: "3",
     name: "เล่นเกม",
-    imgUrl: "public/images/mySelf/game.jpg",
+    imgUrl: "/images/mySelf/game.jpg",
     description: "ชอบเล่นเกม roblox และ dont starve",
     emoji: "🎮",
   },
