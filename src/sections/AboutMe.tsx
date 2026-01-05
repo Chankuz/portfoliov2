@@ -49,11 +49,11 @@ const AboutMe = () => {
                 dicta iste eum libero laudantium, facilis nisi eveniet ipsum
                 fugit quibusdam. Sint nam fugit deleniti ex cum, inventore
                 quisquam repellat facere ab in. Laudantium officia, harum
-                voluptas illo eos nesciunt animi in sit fugit quod, fuga error
-                doloremque similique unde aperiam architecto explicabo laborum,
-                ab dignissimos ullam nisi! Sint impedit suscipit possimus
-                assumenda beatae laborum voluptate reiciendis, ratione minima
-                reprehenderit ullam optio nulla incidunt libero maiores?{" "}
+                voluptas illo eos nesciunt anidsami in sit fugit quod, fuga
+                error doloremque similique unde aperiam architecto explicabo
+                laborum, ab dignissimos ullam nisi! Sint impedit suscipit
+                possimus assumenda beatae laborum voluptate reiciendis, ratione
+                minima reprehenderit ullam optio nulla incidunt libero maiores?{" "}
               </span>
             </p>
           </div>
